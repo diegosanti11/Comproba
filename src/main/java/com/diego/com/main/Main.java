@@ -6,6 +6,7 @@ public class Main {
 
 		Interfacec d;
 		Clasea ca;
+		System.out.println("Hey");
 
 	}
 
